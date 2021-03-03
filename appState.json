@@ -1,0 +1,94 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "5fb5c168-75ad-41f1-99f7-43e4a1634d7c": {
+        "id": "5fb5c168-75ad-41f1-99f7-43e4a1634d7c",
+        "parent": null,
+        "name": "indupython1116.py",
+        "type": "PYTHON_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "indupython1116.py",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 7
+        },
+        "config": {
+          "runtime": "python37",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "triggerType": 0,
+          "name": "indupython1116"
+        },
+        "triggers": [
+          {
+            "resourceName": "http-trigger",
+            "config": {}
+          }
+        ],
+        "lastUpdated": 1614750399760
+      },
+      "44071d51-90a1-4416-85cc-fa619f8c5272": {
+        "id": "44071d51-90a1-4416-85cc-fa619f8c5272",
+        "parent": null,
+        "name": "index.js",
+        "type": "JS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "index.js"
+      },
+      "58770227-94d6-42d4-ab37-fde01b60409a": {
+        "id": "58770227-94d6-42d4-ab37-fde01b60409a",
+        "parent": null,
+        "name": "main.py",
+        "type": "PYTHON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "main.py"
+      }
+    },
+    "openFiles": [
+      "5fb5c168-75ad-41f1-99f7-43e4a1634d7c"
+    ],
+    "currentFileId": "5fb5c168-75ad-41f1-99f7-43e4a1634d7c",
+    "resources": {
+      "http-trigger": {
+        "name": "http-trigger",
+        "type": "http-trigger",
+        "config": {}
+      }
+    },
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.7.0",
+    "projectName": "indupython1116",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east1",
+    "platform": "GCP",
+    "language": "python",
+    "platformRegions": {},
+    "lastSave": 1614750596483
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "indupython1116",
+      "url": "https://github.com/Indunil1992/indupython1116"
+    }
+  }
+}
